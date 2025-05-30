@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+venv/
+ENV/
+env/
+.ipynb_checkpoints
+
+# Data files
+*.fits
+*.hdf5
+*.csv
+*.db
+*.sqlite
+*.parquet
+*.pkl
+*.dat
+*.npy
+
+# Other files
+*.jpg
+*.jpeg
+*.opd
+*~
+*#
+#*
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Others
+Conf_matrix_DL.pdf
+DeepShadows.png
